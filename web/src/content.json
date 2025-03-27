@@ -1,0 +1,13 @@
+{
+  "patientPortalLabel": "Patient Portal",
+  "filterLabel": "Filter",
+  "keywordLabel": "Keyword",
+  "emailLabel": "Email",
+  "firstNameLabel": "First Name",
+  "lastNameLabel": "Last Name",
+  "loginLabel": "Login",
+  "logOutLabel": "Log out",
+  "passwordLabel": "Password",
+  "titleLabel": "Title",
+  "usernameLabel": "Username"
+}
